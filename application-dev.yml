@@ -1,1 +1,2 @@
-
+config:
+ path: springcloud-version1
